@@ -5,9 +5,6 @@ void store_macro(char *text);
 char *find_macro(char *word);
 
 #endif
-~                                                                                                
-~                                                                                                
-~                                                                                                
-~                                                                                                
-~                                                                                                
-~     
+                                                                                              
+                                                                                               
+                                                                                                                                                                                                                                                                                            
