@@ -38,16 +38,11 @@ char *find_macro(char *word)
         if (strcmp(names[i], word) == 0)
             return bodies[i];
     return NULL;
-}
-~                                                                                                                                                
-~                                                                                                                                                
-~                                                                                                                                                
-~                                                                                                                                                
-~                                                                                                                                                
-~                                                                                                                                                
-~                                                                                                                                                
-~                                                                                                                                                
-~                                                                                                                                                
-~                                                                                                                                                
-~                                                                                                                                                
-~                    
+}                                                                                                                                                                                                                                                                                        
+                                                                                                                                                                                                                                                                                         
+                                                                                                                                                
+                                                                                                                                               
+                                                                                                                                                
+                                                                                                                                              
+                                                                                                                                                
+                                                                                                                                                                                                                                                                     
