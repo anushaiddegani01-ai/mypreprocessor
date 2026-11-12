@@ -6,16 +6,12 @@
 void remove_comments(FILE *in,FILE *out);
 
 #endif
-
-~                                                                                                                           
-~                                                                                                                           
-~                                                                                                                           
-~                                                                                                                           
-~                                                                                                                           
-~                                                                                                                           
-~                                                                                                                           
-~                                                                                                                           
-~                                                                                                                           
-~                                                                                                                           
-~                                                                                                                           
-~        
+                                                                                                                           
+                                                                                                                           
+                                                                                                                           
+                                                                                                                                                                                                                                                  
+                                                                                                                        
+                                                                                                                                                                                                                                                    
+                                                                                                                           
+                                                                                                                           
+                                                                                                                  
