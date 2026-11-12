@@ -17,4 +17,4 @@ macro_handler.o: macro_handler.c
 clean:
         @echo "cleaning up"
         @rm -v *.o
-~          
+         
