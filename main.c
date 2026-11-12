@@ -43,9 +43,9 @@ int main(int argc,char **argv)
     fclose(fr);
     return 0;
 }
-~                                                                                                                                                
-~                                                                                                                                                
-~                                                                                                                                                
-~                                                                                                                                                
-~                                                                                                                                                
-~                
+                                                                                                                                              
+                                                                                                                                               
+                                                                                                                                              
+                                                                                                                                                
+                                                                                                                                                
+                
