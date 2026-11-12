@@ -7,5 +7,5 @@ void header(FILE *in, FILE *out);
 
 #endif
 
-~                                                                                                
-~      
+                                                                                               
+      
