@@ -63,6 +63,6 @@ void header(FILE *in, FILE *out)
     fclose(inc);
     fputc('\n',out);
 }
-~                                                                                                                                                                                                                                                                                                  
-~                                                                                                                                                                                                                                                                                                  
-~                     
+                                                                                                                                                                                                                                                                                                  
+                                                                                                                                                                                                                                                                                                  
+                   
